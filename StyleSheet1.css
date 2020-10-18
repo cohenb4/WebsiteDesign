@@ -1,0 +1,52 @@
+﻿* {
+    font-family: 'Times New Roman';
+}
+h4 {
+    color: black;
+    font-weight: bold;
+}
+h3 {
+    color: white;
+    font-size: smaller;
+}
+a {
+    color: white;
+}
+#PageWrapper {
+    width: 844px;
+}
+#Header {
+    background-color: red;
+    color: white;
+    width: 844px;
+}
+#MainContent {
+    background-color: white;
+    color: black;
+    float: right;
+    width: 652px;
+}
+#Menu {
+    background-color: gray;
+    color: white;
+    width: 192px;
+    float: left;
+}
+#Footer {
+    background-color: red;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 844px;
+    color: white;
+    text-align: left;
+}
+img {
+    align-content: center;
+}
+h1 {
+    position: center;
+}
+#TreeView1 {
+    width: 192px;
+}
